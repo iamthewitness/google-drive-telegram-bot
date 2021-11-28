@@ -21,7 +21,7 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=REPO-URL/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=REPO-URL/) ALTERNATIVELY, FOR PARENT REPO CONFIG VARS, USE: [REPO-URL/tree/master]
 
 ### Installation
 - Install required modules.
